@@ -27,7 +27,6 @@ Objectives
 
 ## Project Overview
 
-The application contains three independent modules within one common application.
              COMPUTER SCIENCE CONCEPT SIMULATOR
                            |
           +----------------+----------------+
